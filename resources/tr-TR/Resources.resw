@@ -131,7 +131,10 @@
     <value>Öne getir</value>
   </data>
   <data name="Apps_NoResultsFound" xml:space="preserve">
-    <value>&apos;{0}&apos; için sonuç bulunamadı</value>
+    <value>'{0}' için sonuç bulunamadı</value>
+  </data>
+  <data name="Apps_RunAsAdmin.Text" xml:space="preserve">
+    <value>Yönetici olarak çalıştır</value>
   </data>
   <data name="Apps_Title.Text" xml:space="preserve">
     <value>Uygulamalar</value>
@@ -172,7 +175,7 @@
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="FirstRunExperience_Scene2_Description1.Text" xml:space="preserve">
-    <value>Ink Workspace&apos;i tepsi simgesini kullanarak açabilirsiniz. Saatin yanında duruyor olmalı.</value>
+    <value>Ink Workspace'i tepsi simgesini kullanarak açabilirsiniz. Saatin yanında duruyor olmalı.</value>
   </data>
   <data name="FirstRunExperience_Scene2_Description2.Text" xml:space="preserve">
     <value>Simge gizlenmiş olabilir. Eğer görmüyorsanız, ok tuşuna tıklamayı deneyin.</value>
@@ -181,7 +184,7 @@
     <value>Tepsi simgesini kullanın</value>
   </data>
   <data name="FirstRunExperience_Scene3_Description1.Text" xml:space="preserve">
-    <value>Ink Workspace&apos;i doğrudan görev çubuğundan açabilirsiniz. Sabitlemeniz yeterli.</value>
+    <value>Ink Workspace'i doğrudan görev çubuğundan açabilirsiniz. Sabitlemeniz yeterli.</value>
   </data>
   <data name="FirstRunExperience_Scene3_Description2.Text" xml:space="preserve">
     <value>Atlama listesini açmak için sağ tıklayın veya basıp tutun. Temel komutlar listesi içerir.</value>
@@ -199,7 +202,7 @@
     <value>Ayarları değiştir</value>
   </data>
   <data name="FirstRunExperience_Scene5_Description.Text" xml:space="preserve">
-    <value>Ink Workspace&apos;in kurulumunu tamamlamak için bu pencereyi kapatın</value>
+    <value>Ink Workspace'in kurulumunu tamamlamak için bu pencereyi kapatın</value>
   </data>
   <data name="FirstRunExperience_Scene5_Title.Text" xml:space="preserve">
     <value>Neredeyse hazır...</value>
@@ -256,19 +259,19 @@
     <value>TR</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
-  <data name="NavigationBar_Apps.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="NavigationBar_Apps" xml:space="preserve">
     <value>Uygulamalar</value>
   </data>
-  <data name="NavigationBar_Home.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="NavigationBar_Home" xml:space="preserve">
     <value>Ana sayfa</value>
   </data>
-  <data name="NavigationBar_QuickActions.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="NavigationBar_QuickActions" xml:space="preserve">
     <value>Hızlı eylemler</value>
   </data>
-  <data name="NavigationBar_RecentFiles.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="NavigationBar_RecentFiles" xml:space="preserve">
     <value>Son kullanılan dosyalar</value>
   </data>
-  <data name="NavigationBar_Settings.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="NavigationBar_Settings" xml:space="preserve">
     <value>Ayarlar</value>
   </data>
   <data name="QuickActions_Action_Cast" xml:space="preserve">
@@ -295,6 +298,9 @@
   <data name="QuickActions_Action_Narrator" xml:space="preserve">
     <value>Okuyucu</value>
   </data>
+  <data name="QuickActions_Action_NewQuickNote" xml:space="preserve">
+    <value>Yeni Hızlı Not</value>
+  </data>
   <data name="QuickActions_Action_Project" xml:space="preserve">
     <value>Yansıt</value>
   </data>
@@ -303,6 +309,21 @@
   </data>
   <data name="QuickActions_Action_RecycleBin" xml:space="preserve">
     <value>Geri Dönüşüm Kutusu</value>
+  </data>
+  <data name="QuickActions_Action_Rotate" xml:space="preserve">
+    <value>Ekranı döndür</value>
+  </data>
+  <data name="QuickActions_Action_Rotate_Rotate0" xml:space="preserve">
+    <value>0°'ye döndür</value>
+  </data>
+  <data name="QuickActions_Action_Rotate_Rotate180" xml:space="preserve">
+    <value>180°'ye döndür</value>
+  </data>
+  <data name="QuickActions_Action_Rotate_Rotate270" xml:space="preserve">
+    <value>270°'ye döndür</value>
+  </data>
+  <data name="QuickActions_Action_Rotate_Rotate90" xml:space="preserve">
+    <value>90°'ye döndür</value>
   </data>
   <data name="QuickActions_Action_Run" xml:space="preserve">
     <value>Çalıştır</value>
@@ -321,6 +342,9 @@
   </data>
   <data name="QuickActions_Action_ShutDown_Restart" xml:space="preserve">
     <value>Yeniden başlat</value>
+  </data>
+  <data name="QuickActions_Action_ShutDown_Sleep" xml:space="preserve">
+    <value>Uyku</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot" xml:space="preserve">
     <value>Ekran görüntüsü al</value>
@@ -352,13 +376,13 @@
   <data name="QuickActions_Unpin.Text" xml:space="preserve">
     <value>Sabitlemeyi kaldır</value>
   </data>
-  <data name="RateAndReview_Dismiss.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="RateAndReview_Dismiss" xml:space="preserve">
     <value>Kapat</value>
   </data>
   <data name="RateAndReview_Title.Text" xml:space="preserve">
     <value>Bu uygulamaya puan verin</value>
   </data>
-  <data name="RateAndReview_WriteReview.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="RateAndReview_WriteReview" xml:space="preserve">
     <value>Bir inceleme yazın</value>
   </data>
   <data name="RecentFiles_More.Text" xml:space="preserve">
@@ -650,6 +674,10 @@
   </data>
   <data name="SettingsPersonalization_AppStyle_Windows11.Content" xml:space="preserve">
     <value>Windows 11</value>
+    <comment>DO NOT TRANSLATE</comment>
+  </data>
+  <data name="SettingsPersonalization_AppStyle_Windows11Mica.Content" xml:space="preserve">
+    <value>Windows 11 Mica</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="SettingsPersonalization_Category_ButtonsAndStatuses.Text" xml:space="preserve">

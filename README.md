@@ -12,7 +12,8 @@ Feel free to share ideas about new features or report bugs.
 
 ## Translations
 
-Chinese: [@ZHang233-ai](https://github.com/ZHang233-ai)  
+Chinese (Simplified): [@ZHang233-ai](https://github.com/ZHang233-ai)  
+Chinese (Traditional): [@yrctw](https://github.com/yrctw)  
 Czech: [@Vaki21](https://github.com/Vaki21)  
 English (United States): [@michalleptuch](https://github.com/michalleptuch)  
 French: [@FJduFou](https://github.com/FJduFou)  
@@ -24,6 +25,6 @@ Polish: [@michalleptuch](https://github.com/michalleptuch)
 Portuguese (Brazil): [@lukedesign](https://github.com/lukedesign)  
 Portuguese (Portugal): [@esibruti](https://github.com/esibruti)  
 Romanian: [@alextecplayz](https://github.com/alextecplayz)  
-Spanish (Spain): [@qrbt_ok](https://twitter.com/qrbt_ok)  
+Spanish (Spain): [@quietrobot](https://github.com/quietrobot)  
 Turkish: [@baglayan](https://github.com/baglayan)  
 Vietnamese: [@CaptainSodium73](https://github.com/CaptainSodium73)

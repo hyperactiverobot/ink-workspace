@@ -122,123 +122,123 @@
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="Apps_AllApps.Text" xml:space="preserve">
-    <value>Wszystkie aplikacje</value>
+    <value>Todas las Apps</value>
   </data>
   <data name="Apps_AppsSearchBox.PlaceholderText" xml:space="preserve">
-    <value>Wpisz tutaj, aby wyszukać</value>
+    <value>Escribe aquí para buscar</value>
   </data>
   <data name="Apps_MoveToFront.Text" xml:space="preserve">
-    <value>Przenieś na początek</value>
+    <value>Mover arriba</value>
   </data>
   <data name="Apps_NoResultsFound" xml:space="preserve">
-    <value>Brak wyników wyszukiwania dla '{0}'</value>
+    <value>No se encontraron resultados para '{0}'</value>
   </data>
   <data name="Apps_RunAsAdmin.Text" xml:space="preserve">
-    <value>Uruchom jako administrator</value>
+    <value>Ejecutar como administrador</value>
   </data>
   <data name="Apps_Title.Text" xml:space="preserve">
-    <value>Aplikacje</value>
+    <value>Apps</value>
   </data>
   <data name="Apps_Unpin.Text" xml:space="preserve">
-    <value>Odepnij</value>
+    <value>Desanclar</value>
   </data>
   <data name="ContextMenu_PenSettings.Text" xml:space="preserve">
-    <value>Ustawienia pióra</value>
+    <value>Configuracion del lapiz</value>
   </data>
   <data name="ContextMenu_Quit.Text" xml:space="preserve">
-    <value>Zakończ</value>
+    <value>Salir</value>
   </data>
   <data name="ContextMenu_Settings.Text" xml:space="preserve">
-    <value>Ustawienia</value>
+    <value>Configuraciones</value>
   </data>
   <data name="ContextMenu_StopRecording.Text" xml:space="preserve">
-    <value>Zatrzymaj nagrywanie</value>
+    <value>Detener grabación</value>
   </data>
   <data name="CultureInfo" xml:space="preserve">
-    <value>pl-PL</value>
+    <value>es-ES</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="FirstRunExperience_Close" xml:space="preserve">
-    <value>Zamknij</value>
+    <value>Cerrar</value>
   </data>
   <data name="FirstRunExperience_Next.Content" xml:space="preserve">
-    <value>Dalej</value>
+    <value>Siguiente</value>
   </data>
   <data name="FirstRunExperience_Scene1_Description1.Text" xml:space="preserve">
-    <value>Zapraszamy</value>
+    <value>Bienvenido</value>
   </data>
   <data name="FirstRunExperience_Scene1_Description2.Text" xml:space="preserve">
-    <value>Poznaj podstawy, aby sprawnie korzystać z aplikacji</value>
+    <value>Aprendamos como usar ésta aplicación como un profesional</value>
   </data>
   <data name="FirstRunExperience_Scene1_Title.Text" xml:space="preserve">
     <value>Ink Workspace</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="FirstRunExperience_Scene2_Description1.Text" xml:space="preserve">
-    <value>Możesz otwierać Ink Workspace używając ikony w zasobniku systemowym. Ikona powinna być widoczna obok zegara.</value>
+    <value>Puedes abrir Ink Workspace usando el icono del área de notificaciones al lado de la hora.</value>
   </data>
   <data name="FirstRunExperience_Scene2_Description2.Text" xml:space="preserve">
-    <value>Jeśli jej nie widzisz, kliknij lub dotknij ikonę strzałki na pasku zadań.</value>
+    <value>El ícono puede estar oculto. Si no lo ves, intenta clickear o tocar el botón de flecha.</value>
   </data>
   <data name="FirstRunExperience_Scene2_Title.Text" xml:space="preserve">
-    <value>Użyj ikony w zasobniku</value>
+    <value>Usa el icono del área de notificaciones</value>
   </data>
   <data name="FirstRunExperience_Scene3_Description1.Text" xml:space="preserve">
-    <value>Możesz otwierać Ink Workspace bezpośrednio z paska zadań - po prostu przypnij aplikację.</value>
+    <value>Puedes abrir Ink Workspace directamente desde la barra de tareas. Simplemente anclalo allí.</value>
   </data>
   <data name="FirstRunExperience_Scene3_Description2.Text" xml:space="preserve">
-    <value>Kliknij prawym przyciskiem myszy lub dotknij i przytrzymaj, aby otworzyć listę szybkiego dostępu. Zawiera ona podstawowe zadania.</value>
+    <value>Click derecho o toca y presiona el ícono para abrir la lista desplegable. Ésta contiene una lista de comandos esenciales.</value>
   </data>
   <data name="FirstRunExperience_Scene3_Title.Text" xml:space="preserve">
-    <value>Przypnij Ink Workspace do paska zadań</value>
+    <value>Anclar la app a la barra de tareas</value>
   </data>
   <data name="FirstRunExperience_Scene4_Description1.Text" xml:space="preserve">
-    <value>Ink Workspace pozwala na spersonalizowanie ustawień, włączenie lub wyłączenie skrótów klawiszowych, zarządzanie aplikacjami i wiele więcej.</value>
+    <value>Ink Workspace te permite ajustar las opciones de personalización, habilitar o deshabilitar los atajos de teclado, administrar aplicaciones y más.</value>
   </data>
   <data name="FirstRunExperience_Scene4_Description2.Text" xml:space="preserve">
-    <value>Przycisk ustawień znajdziesz w oknie aplikacji, menu kontekstowym ikony w zasobniku lub na liście szybkiego dostępu.</value>
+    <value>Puedes acceder a las configuraciones desde Ink Workspace, el menú contextual del icono del area de notificaciones o la lista desplegable de la barra de tareas.</value>
   </data>
   <data name="FirstRunExperience_Scene4_Title.Text" xml:space="preserve">
-    <value>Dostosuj ustawienia</value>
+    <value>Ajustar configuraciones</value>
   </data>
   <data name="FirstRunExperience_Scene5_Description.Text" xml:space="preserve">
-    <value>Zamknij okno, aby dokończyć konfigurację aplikacji Ink Workspace</value>
+    <value>Cierra ésta ventana para finalizar el apredizaje sobre Ink Workspace</value>
   </data>
   <data name="FirstRunExperience_Scene5_Title.Text" xml:space="preserve">
-    <value>Prawie gotowe...</value>
+    <value>Casi listo...</value>
   </data>
   <data name="FirstRunExperience_Skip.Content" xml:space="preserve">
-    <value>Pomiń</value>
+    <value>Saltar</value>
   </data>
   <data name="JumpList_PenSettings" xml:space="preserve">
-    <value>Ustawienia pióra</value>
+    <value>Configuracion del lapiz</value>
   </data>
   <data name="JumpList_QuitApp" xml:space="preserve">
-    <value>Zakończ</value>
+    <value>Salir</value>
   </data>
   <data name="JumpList_Settings" xml:space="preserve">
-    <value>Ustawienia</value>
+    <value>Configuraciones</value>
   </data>
   <data name="JumpList_StopRecording" xml:space="preserve">
-    <value>Zatrzymaj nagrywanie</value>
+    <value>Detener grabación</value>
   </data>
   <data name="KeyboardShortcutEditor_ContentDialog.PrimaryButtonText" xml:space="preserve">
-    <value>Zapisz</value>
+    <value>Guardar</value>
   </data>
   <data name="KeyboardShortcutEditor_ContentDialog.SecondaryButtonText" xml:space="preserve">
-    <value>Anuluj</value>
+    <value>Cancelar</value>
   </data>
   <data name="KeyboardShortcutEditor_ContentDialog.Title" xml:space="preserve">
-    <value>Edytuj skrót</value>
+    <value>Editar atajo de teclado</value>
   </data>
   <data name="KeyboardShortcutEditor_Description.Text" xml:space="preserve">
-    <value>Naciśnij kombinację klawiszy, aby zmienić ten skrót klawiszowy</value>
+    <value>Presiona una combinación de teclas para cambiar éste atajo</value>
   </data>
   <data name="KeyboardShortcutEditor_Info1.Text" xml:space="preserve">
-    <value>Tylko kombinacje zawierające klawisze</value>
+    <value>Solo los atajos que comiencen con</value>
   </data>
   <data name="KeyboardShortcutEditor_Info2.Text" xml:space="preserve">
-    <value>Windows</value>
+    <value>Tecla de Windows</value>
   </data>
   <data name="KeyboardShortcutEditor_Info3.Text" xml:space="preserve">
     <value>Ctrl</value>
@@ -247,426 +247,426 @@
     <value>Alt</value>
   </data>
   <data name="KeyboardShortcutEditor_Info5.Text" xml:space="preserve">
-    <value>lub</value>
+    <value>o</value>
   </data>
   <data name="KeyboardShortcutEditor_Info6.Text" xml:space="preserve">
     <value>Shift</value>
   </data>
   <data name="KeyboardShortcutEditor_Info7.Text" xml:space="preserve">
-    <value>są dozwolone.</value>
+    <value>son válidos.</value>
   </data>
   <data name="Market" xml:space="preserve">
-    <value>PL</value>
+    <value>ES</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="NavigationBar_Apps" xml:space="preserve">
-    <value>Aplikacje</value>
+    <value>Aplicaciones</value>
   </data>
   <data name="NavigationBar_Home" xml:space="preserve">
-    <value>Strona główna</value>
+    <value>Inicio</value>
   </data>
   <data name="NavigationBar_QuickActions" xml:space="preserve">
-    <value>Szybkie akcje</value>
+    <value>Acciones rápidas</value>
   </data>
   <data name="NavigationBar_RecentFiles" xml:space="preserve">
-    <value>Ostatnie pliki</value>
+    <value>Archivos recientes</value>
   </data>
   <data name="NavigationBar_Settings" xml:space="preserve">
-    <value>Ustawienia</value>
+    <value>Configuraciones</value>
   </data>
   <data name="QuickActions_Action_Cast" xml:space="preserve">
-    <value>Rzutuj</value>
+    <value>Transmitir</value>
   </data>
   <data name="QuickActions_Action_Clipboard" xml:space="preserve">
-    <value>Schowek</value>
+    <value>Portapapeles</value>
   </data>
   <data name="QuickActions_Action_Connect" xml:space="preserve">
-    <value>Połącz</value>
+    <value>Conectar</value>
   </data>
   <data name="QuickActions_Action_EmojiPanel" xml:space="preserve">
-    <value>Panel emoji</value>
+    <value>Panel de Emojis</value>
   </data>
   <data name="QuickActions_Action_GameBar" xml:space="preserve">
-    <value>Pasek gry</value>
+    <value>Game bar</value>
   </data>
   <data name="QuickActions_Action_LockDevice" xml:space="preserve">
-    <value>Zablokuj urządzenie</value>
+    <value>Bloquear dispositivo</value>
   </data>
   <data name="QuickActions_Action_Magnifier" xml:space="preserve">
     <value>Lupa</value>
   </data>
   <data name="QuickActions_Action_Narrator" xml:space="preserve">
-    <value>Narrator</value>
+    <value>Narrador</value>
   </data>
   <data name="QuickActions_Action_NewQuickNote" xml:space="preserve">
-    <value>Nowa szybka notatka</value>
+    <value>Nueva nota rápida</value>
   </data>
   <data name="QuickActions_Action_Project" xml:space="preserve">
-    <value>Wyświetl</value>
+    <value>Proyectar</value>
   </data>
   <data name="QuickActions_Action_Recording" xml:space="preserve">
-    <value>Nagraj ekran lub okno</value>
+    <value>Grabar una pantalla o una ventana</value>
   </data>
   <data name="QuickActions_Action_RecycleBin" xml:space="preserve">
-    <value>Kosz</value>
+    <value>Papelera de reciclaje</value>
   </data>
   <data name="QuickActions_Action_Rotate" xml:space="preserve">
-    <value>Obróć ekran</value>
+    <value>Girar pantalla</value>
   </data>
   <data name="QuickActions_Action_Rotate_Rotate0" xml:space="preserve">
-    <value>Obróć do 0°</value>
+    <value>Girar a 0°</value>
   </data>
   <data name="QuickActions_Action_Rotate_Rotate180" xml:space="preserve">
-    <value>Obróć do 180°</value>
+    <value>Girar a 180°</value>
   </data>
   <data name="QuickActions_Action_Rotate_Rotate270" xml:space="preserve">
-    <value>Obróć do 270°</value>
+    <value>Girar a 270°</value>
   </data>
   <data name="QuickActions_Action_Rotate_Rotate90" xml:space="preserve">
-    <value>Obróć do 90°</value>
+    <value>Girar a 90°</value>
   </data>
   <data name="QuickActions_Action_Run" xml:space="preserve">
-    <value>Uruchom</value>
+    <value>Ejecutar</value>
   </data>
   <data name="QuickActions_Action_ScreenSketch" xml:space="preserve">
-    <value>Szkic ekranu</value>
+    <value>Recorte de pantalla</value>
   </data>
   <data name="QuickActions_Action_ShowDesktop" xml:space="preserve">
-    <value>Pokaż pulpit</value>
+    <value>Mostrar escritorio</value>
   </data>
   <data name="QuickActions_Action_ShutDown" xml:space="preserve">
-    <value>Wyłącz</value>
+    <value>Apagar</value>
   </data>
   <data name="QuickActions_Action_ShutDown_Hibernate" xml:space="preserve">
-    <value>Hibernuj</value>
+    <value>Hibernar</value>
   </data>
   <data name="QuickActions_Action_ShutDown_Restart" xml:space="preserve">
-    <value>Uruchom ponownie</value>
+    <value>Reiniciar</value>
   </data>
   <data name="QuickActions_Action_ShutDown_Sleep" xml:space="preserve">
-    <value>Uśpij</value>
+    <value>Suspender</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot" xml:space="preserve">
-    <value>Zrób zrzut ekranu</value>
+    <value>Tomar una captura de pantalla</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot_Delay10s" xml:space="preserve">
-    <value>Opóźnij o 10s</value>
+    <value>Demorar 10 segundos</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot_Delay15s" xml:space="preserve">
-    <value>Opóźnij o 15s</value>
+    <value>Demorar 15 segundos</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot_Delay3s" xml:space="preserve">
-    <value>Opóźnij o 3s</value>
+    <value>Demorar 3 segundos</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot_Delay5s" xml:space="preserve">
-    <value>Opóźnij o 5s</value>
+    <value>Demorar 5 segundos</value>
   </data>
   <data name="QuickActions_Action_VirtualTouchpad" xml:space="preserve">
-    <value>Wirtualny touchpad</value>
+    <value>Teclado virtual</value>
   </data>
   <data name="QuickActions_Action_VoiceTyping" xml:space="preserve">
-    <value>Dyktowanie</value>
+    <value>Dictado por voz</value>
   </data>
   <data name="QuickActions_More.Text" xml:space="preserve">
-    <value>Więcej</value>
+    <value>Más</value>
   </data>
   <data name="QuickActions_Title.Text" xml:space="preserve">
-    <value>Szybkie akcje</value>
+    <value>Acciones rápidas</value>
   </data>
   <data name="QuickActions_Unpin.Text" xml:space="preserve">
-    <value>Odepnij</value>
+    <value>Desanclar</value>
   </data>
   <data name="RateAndReview_Dismiss" xml:space="preserve">
-    <value>Odrzuć</value>
+    <value>Descartar</value>
   </data>
   <data name="RateAndReview_Title.Text" xml:space="preserve">
-    <value>Oceń aplikację</value>
+    <value>Califica esta aplicación</value>
   </data>
   <data name="RateAndReview_WriteReview" xml:space="preserve">
-    <value>Napisz recenzję</value>
+    <value>Escribir una crítica</value>
   </data>
   <data name="RecentFiles_More.Text" xml:space="preserve">
-    <value>Więcej</value>
+    <value>Más</value>
   </data>
   <data name="RecentFiles_NoRecentFiles.Text" xml:space="preserve">
-    <value>Im dłużej używasz urządzenia, tym więcej plików pojawi się tutaj</value>
+    <value>Cuanto más utilices tu dispositivo, los más recientes archivos se mostrarán</value>
   </data>
   <data name="RecentFiles_OpenFileLocation.Text" xml:space="preserve">
-    <value>Otwórz lokalizację pliku</value>
+    <value>Abrir ubicación de archivo</value>
   </data>
   <data name="RecentFiles_RemoveFromList.Text" xml:space="preserve">
-    <value>Usuń z listy</value>
+    <value>Quitar de la lista</value>
   </data>
   <data name="RecentFiles_Title.Text" xml:space="preserve">
-    <value>Ostatnie pliki</value>
+    <value>Archivos recientes</value>
   </data>
   <data name="RecordingFileName" xml:space="preserve">
-    <value>Nagranie</value>
+    <value>Grabando</value>
   </data>
   <data name="RecordingStatus_Recording.Text" xml:space="preserve">
-    <value>Nagrywanie...</value>
+    <value>Grabando...</value>
   </data>
   <data name="RecordingStatus_Stop.Text" xml:space="preserve">
-    <value>Zatrzymaj</value>
+    <value>Detener</value>
   </data>
   <data name="Recording_Cancel.Content" xml:space="preserve">
-    <value>Anuluj</value>
+    <value>Cancelar</value>
   </data>
   <data name="Recording_Skip.Content" xml:space="preserve">
-    <value>Pomiń</value>
+    <value>Saltar</value>
   </data>
   <data name="Recording_Starting.Text" xml:space="preserve">
-    <value>Rozpoczynianie...</value>
+    <value>Comenzando...</value>
   </data>
   <data name="SettingsAbout_ApplicationName.Text" xml:space="preserve">
     <value>Ink Workspace</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="SettingsAbout_EmailSupport.Content" xml:space="preserve">
-    <value>Kontakt e-mail</value>
+    <value>Email de soporte</value>
   </data>
   <data name="SettingsAbout_Feedback.Content" xml:space="preserve">
-    <value>Zgłoś błąd</value>
+    <value>Sugerencias</value>
   </data>
   <data name="SettingsAbout_Libraries_Description.Text" xml:space="preserve">
-    <value>Następujące biblioteki zostały wykorzystane w tej aplikacji:</value>
+    <value>Las siguientes librerías fueron usadas en esta app:</value>
   </data>
   <data name="SettingsAbout_Libraries_Title.Text" xml:space="preserve">
-    <value>Biblioteki</value>
+    <value>Librerías</value>
   </data>
   <data name="SettingsAbout_MyApps.Content" xml:space="preserve">
-    <value>Moje aplikacje</value>
+    <value>Mis aplicaciones</value>
   </data>
   <data name="SettingsAbout_RateAndReview.Content" xml:space="preserve">
-    <value>Oceń i opisz</value>
+    <value>Calificar</value>
   </data>
   <data name="SettingsAbout_Troubleshooting_Description.Text" xml:space="preserve">
-    <value>Aplikacja Mica For Everyone może powodować, że okna aplikacji będą wyświetlać się w nieprawidłowy sposób. W takim wypadku dodaj nowe zasady dla procesów InkWorkspace.Wpf oraz InkWorkspace.Recording i ustaw domyślne wartości.</value>
+    <value>La aplicación Mica Para Todos puede causa que la ventana de Ink Workspace se vea incorrectamente. En ese caso, agrega una nueva regla para los procesos InkWorkspace.Wpf y InkWorkspace.Recording y establece los valores por defecto.</value>
   </data>
   <data name="SettingsAbout_Troubleshooting_Title.Text" xml:space="preserve">
-    <value>Rozwiązywanie problemów</value>
+    <value>Solución de problemas</value>
   </data>
   <data name="SettingsAbout_Version.Text" xml:space="preserve">
-    <value>Wersja:</value>
+    <value>Versión:</value>
   </data>
   <data name="SettingsApps_AndroidApps_Description.Text" xml:space="preserve">
-    <value>Pokaż aplikacje systemu Android na liście aplikacji</value>
+    <value>Mostrar aplicaciones Android en la lista de aplicaciones</value>
   </data>
   <data name="SettingsApps_AndroidApps_Information.Text" xml:space="preserve">
-    <value>Wszystkie aplikacje systemu Android zostaną odpięte ze strony głównej, gdy wyłączysz to ustawienie</value>
+    <value>Todas las aplicaciones Android serán desancladas del Inicio cuando apagues esta configuración</value>
   </data>
   <data name="SettingsApps_AndroidApps_Title.Text" xml:space="preserve">
-    <value>Aplikacje systemu Android</value>
+    <value>Aplicaciones Android</value>
   </data>
   <data name="SettingsApps_AppsGrouping_Description.Text" xml:space="preserve">
-    <value>Włącz grupowanie na liście aplikacji</value>
+    <value>Habilitar agrupar aplicaciones de la lista</value>
   </data>
   <data name="SettingsApps_AppsGrouping_Title.Text" xml:space="preserve">
-    <value>Grupowanie aplikacji</value>
+    <value>Agrupar aplicaciones</value>
   </data>
   <data name="SettingsApps_Category_Advanced.Text" xml:space="preserve">
-    <value>Zaawansowane</value>
+    <value>Avanzado</value>
   </data>
   <data name="SettingsApps_ClassicApps_Description.Text" xml:space="preserve">
-    <value>Pokaż aplikacje klasyczne na liście aplikacji</value>
+    <value>Mostrar aplicaciones clásicas en la lista de aplicaciones</value>
   </data>
   <data name="SettingsApps_ClassicApps_Information.Text" xml:space="preserve">
-    <value>Wszystkie aplikacje klasyczne zostaną odpięte ze strony głównej, gdy wyłączysz to ustawienie</value>
+    <value>Todas las aplicaciones cásicas serán desancladas del Inicio cuando apagues esta configuración</value>
   </data>
   <data name="SettingsApps_ClassicApps_Title.Text" xml:space="preserve">
-    <value>Aplikacje klasyczne</value>
+    <value>Aplicaciones clásicas</value>
   </data>
   <data name="SettingsApps_RefreshApps_Description.Text" xml:space="preserve">
-    <value>Jeśli nie widzisz wszystkich aplikacji, spróbuj ręcznie odświeżyć listę aplikacji</value>
+    <value>Si no ves todas las apliaciones, intenta refrescar la lista manualmente</value>
   </data>
   <data name="SettingsApps_RefreshApps_Refresh" xml:space="preserve">
-    <value>Odśwież</value>
+    <value>Refrescar</value>
   </data>
   <data name="SettingsApps_RefreshApps_Refreshing" xml:space="preserve">
-    <value>Odświeżanie</value>
+    <value>Refrescando</value>
   </data>
   <data name="SettingsApps_RefreshApps_Title.Text" xml:space="preserve">
-    <value>Odśwież aplikacje</value>
+    <value>Refrescar aplicaciones</value>
   </data>
   <data name="SettingsApps_SearchBox_Description.Text" xml:space="preserve">
-    <value>Pokaż pole wyszukiwanie w widoku aplikacji</value>
+    <value>Mostrar la barra de búsqueda en la lista de aplicaciones</value>
   </data>
   <data name="SettingsApps_SearchBox_Title.Text" xml:space="preserve">
-    <value>Pole wyszukiwania</value>
+    <value>Barra de búsqueda</value>
   </data>
   <data name="SettingsApps_UnpinAll_Description.Text" xml:space="preserve">
-    <value>Odepnij wszystkie aplikacje ze strony głównej</value>
+    <value>Desanclar todas las aplicaciones del Inicio</value>
   </data>
   <data name="SettingsApps_UnpinAll_Title.Text" xml:space="preserve">
-    <value>Odepnij wszystkie</value>
+    <value>Desanclar todo</value>
   </data>
   <data name="SettingsApps_UnpinAll_Unpin.Content" xml:space="preserve">
-    <value>Odepnij</value>
+    <value>Desanclar</value>
   </data>
   <data name="SettingsApps_UnpinAll_Unpinned" xml:space="preserve">
-    <value>Odpięto</value>
+    <value>Desanclado</value>
   </data>
   <data name="SettingsGeneral_ActivationShortcut_Description.Text" xml:space="preserve">
-    <value>Dostosuj skrót klawiszowy</value>
+    <value>Personalizar los atajos de teclado</value>
   </data>
   <data name="SettingsGeneral_ActivationShortcut_Title.Text" xml:space="preserve">
-    <value>Skrót aktywacji obszaru roboczego</value>
+    <value>Activar atajo de teclado</value>
   </data>
   <data name="SettingsGeneral_Bluetooth_Description.Text" xml:space="preserve">
-    <value>Ustawienia urządzeń Bluetooth</value>
+    <value>Configuración de dispositivos bluetooth</value>
   </data>
   <data name="SettingsGeneral_Bluetooth_Title.Text" xml:space="preserve">
     <value>Bluetooth</value>
   </data>
   <data name="SettingsGeneral_Category_Accessibility.Text" xml:space="preserve">
-    <value>Dostępność</value>
+    <value>Accesibilidad</value>
   </data>
   <data name="SettingsGeneral_Category_RelatedSettings.Text" xml:space="preserve">
-    <value>Powiązane ustawienia</value>
+    <value>Configuraciones relacionadas</value>
   </data>
   <data name="SettingsGeneral_EnableActivationShortcut_Description.Text" xml:space="preserve">
-    <value>Włącz skrót klawiszowy, który pokazuje i ukrywa obszar roboczy aplikacji</value>
+    <value>Habilitar el atajo de teclado para mostrar el espacio de trabajo</value>
   </data>
   <data name="SettingsGeneral_EnableActivationShortcut_Title.Text" xml:space="preserve">
-    <value>Włącz skrót aktywacji obszaru roboczego</value>
+    <value>Habilitar atajo de teclado</value>
   </data>
   <data name="SettingsGeneral_FontSize_Bigger.Content" xml:space="preserve">
-    <value>Większy</value>
+    <value>Grande</value>
   </data>
   <data name="SettingsGeneral_FontSize_Description.Text" xml:space="preserve">
-    <value>Ustaw rozmiar czcionki zawartości w aplikacji</value>
+    <value>Establecer el tamaño de fuente de letra para el contendido dentro de la aplicación</value>
   </data>
   <data name="SettingsGeneral_FontSize_Normal.Content" xml:space="preserve">
-    <value>Normalny</value>
+    <value>Normal</value>
   </data>
   <data name="SettingsGeneral_FontSize_Title.Text" xml:space="preserve">
-    <value>Rozmiar czcionki</value>
+    <value>Tamaño de fuente de letra</value>
   </data>
   <data name="SettingsGeneral_InkingAndTypingPersonalization_Description.Text" xml:space="preserve">
-    <value>Ustawienia słownika personalnego</value>
+    <value>Configuración de diccionario personal</value>
   </data>
   <data name="SettingsGeneral_InkingAndTypingPersonalization_Title.Text" xml:space="preserve">
-    <value>Personalizacja pisma odręcznego i wpisywania</value>
+    <value>Personalización de entrada manuscrita y escritura</value>
   </data>
   <data name="SettingsGeneral_PenAndWindowsInk_Description.Text" xml:space="preserve">
-    <value>Ustawienia pióra i pisma odręcznego</value>
+    <value>Configuración de Lápiz y Windows Ink</value>
   </data>
   <data name="SettingsGeneral_PenAndWindowsInk_Title.Text" xml:space="preserve">
-    <value>Pióro i Windows Ink</value>
+    <value>Lápiz y Windows Ink</value>
   </data>
   <data name="SettingsGeneral_PinToTaskbar_Description.Text" xml:space="preserve">
-    <value>Przypnij aplikację do paska zadań systemu Windows</value>
+    <value>Anclar esta aplicación a la barra de tareas de Windows</value>
   </data>
   <data name="SettingsGeneral_PinToTaskbar_Pinned" xml:space="preserve">
-    <value>Przypięto</value>
+    <value>Anclada</value>
   </data>
   <data name="SettingsGeneral_PinToTaskbar_PinToTaskbar" xml:space="preserve">
-    <value>Przypnij do paska zadań</value>
+    <value>Anclar a la barra de tareas</value>
   </data>
   <data name="SettingsGeneral_PinToTaskbar_Title.Text" xml:space="preserve">
-    <value>Przypnij do paska zadań</value>
+    <value>Anclar a la barra de tareas</value>
   </data>
   <data name="SettingsGeneral_RunAtStartup_Description.Text" xml:space="preserve">
-    <value>Automatycznie uruchom aplikację po zalogowaniu</value>
+    <value>Ejecutar la aplicación automáticamente luego de iniciar Windows</value>
   </data>
   <data name="SettingsGeneral_RunAtStartup_OpenSettings.Content" xml:space="preserve">
-    <value>Otwórz Ustawienia</value>
+    <value>Abrir configuraciones</value>
   </data>
   <data name="SettingsGeneral_RunAtStartup_Title.Text" xml:space="preserve">
-    <value>Uruchom przy starcie</value>
+    <value>Ejecutar al iniciar Windows</value>
   </data>
   <data name="SettingsGeneral_Sounds_Description.Text" xml:space="preserve">
-    <value>Włącz dźwięki interfejsu użytkownika</value>
+    <value>Habilitar la experiencia de audio inmersivo</value>
   </data>
   <data name="SettingsGeneral_Sounds_Title.Text" xml:space="preserve">
-    <value>Dźwięki</value>
+    <value>Sonidos</value>
   </data>
   <data name="SettingsHome_AppsTilesSize_Description.Text" xml:space="preserve">
-    <value>Ustaw rozmiar kafelków przypiętych aplikacji</value>
+    <value>Establecer el tamaño de los mosaicos para las aplicaciones ancladas</value>
   </data>
   <data name="SettingsHome_AppsTilesSize_Medium.Content" xml:space="preserve">
-    <value>Średni</value>
+    <value>Mediano</value>
   </data>
   <data name="SettingsHome_AppsTilesSize_Small.Content" xml:space="preserve">
-    <value>Mały</value>
+    <value>Pequeño</value>
   </data>
   <data name="SettingsHome_AppsTilesSize_Title.Text" xml:space="preserve">
-    <value>Rozmiar kafelków aplikacji</value>
+    <value>Tamaño de los mosaicos de las aplicaciones</value>
   </data>
   <data name="SettingsHome_BingWallpaper_Description.Text" xml:space="preserve">
-    <value>Pokaż codzienną tapetę Bing w tle</value>
+    <value>Mostrar la imagen diaria de Bing en el fondo</value>
   </data>
   <data name="SettingsHome_BingWallpaper_Title.Text" xml:space="preserve">
-    <value>Tapeta Bing</value>
+    <value>Imagen de Bing</value>
   </data>
   <data name="SettingsHome_Category_Options.Text" xml:space="preserve">
-    <value>Opcje</value>
+    <value>Opciones</value>
   </data>
   <data name="SettingsHome_HomeManagement_Apps_Description" xml:space="preserve">
-    <value>Kafelki przypiętych aplikacji</value>
+    <value>Mosaicos de las aplicaciones ancladas</value>
   </data>
   <data name="SettingsHome_HomeManagement_Apps_Title" xml:space="preserve">
-    <value>Aplikacje</value>
+    <value>Aplicaciones</value>
   </data>
   <data name="SettingsHome_HomeManagement_Description.Text" xml:space="preserve">
-    <value>Elementy na stronie głównej mogą być automatycznie ukrywane, gry żadne dane nie są dostępne.</value>
+    <value>Los elementos del Inicio pueden ocultarse automáticamente cuando no hay datos disponibles.</value>
   </data>
   <data name="SettingsHome_HomeManagement_QuickActions_Description" xml:space="preserve">
-    <value>Kafelki przypiętych szybkich akcji</value>
+    <value>Mosaicos de las acciones rápidas que fijaste</value>
   </data>
   <data name="SettingsHome_HomeManagement_QuickActions_Title" xml:space="preserve">
-    <value>Szybkie akcje</value>
+    <value>Acciones rápidas</value>
   </data>
   <data name="SettingsHome_HomeManagement_RecentFiles_Description" xml:space="preserve">
-    <value>Ostatnio otwarte lub zmodyfikowane pliki</value>
+    <value>Archivos recientemente abiertos o modificados</value>
   </data>
   <data name="SettingsHome_HomeManagement_RecentFiles_Title" xml:space="preserve">
-    <value>Ostatnie pliki</value>
+    <value>Archivos recientes</value>
   </data>
   <data name="SettingsHome_HomeManagement_Suggested_Description" xml:space="preserve">
-    <value>Rekomendowane aplikacje obsługujące pióro</value>
+    <value>Aplicaciones recomendadas para lápiz digital</value>
   </data>
   <data name="SettingsHome_HomeManagement_Suggested_Title" xml:space="preserve">
-    <value>Polecane</value>
+    <value>Sugerido</value>
   </data>
   <data name="SettingsHome_HomeManagement_Title.Text" xml:space="preserve">
-    <value>Ustaw widoczność i kolejność elementów na stronie głównej</value>
+    <value>Establecer la visibilidad y orden de los elementos en el Inicio</value>
   </data>
   <data name="SettingsHome_NumberOfRecentFiles_Description.Text" xml:space="preserve">
-    <value>Pokaż określoną liczbę ostatnich plików</value>
+    <value>Mostrar una cantidad determinada de archivos recientes</value>
   </data>
   <data name="SettingsHome_NumberOfRecentFiles_Title.Text" xml:space="preserve">
-    <value>Ostatnie pliki</value>
+    <value>Archivos recientes</value>
   </data>
   <data name="SettingsHome_QuickActionsTilesSize_Description.Text" xml:space="preserve">
-    <value>Ustaw rozmiar kafelków przypiętych szybkich akcji</value>
+    <value>Establecer el tamaño de los mosaicos de las acciones rápidas ancladas</value>
   </data>
   <data name="SettingsHome_QuickActionsTilesSize_Medium.Content" xml:space="preserve">
-    <value>Średni</value>
+    <value>Mediano</value>
   </data>
   <data name="SettingsHome_QuickActionsTilesSize_Small.Content" xml:space="preserve">
-    <value>Mały</value>
+    <value>Pequeño</value>
   </data>
   <data name="SettingsHome_QuickActionsTilesSize_Title.Text" xml:space="preserve">
-    <value>Rozmiar kafelków szybkich akcji</value>
+    <value>Tamaño de los mosaicos de las acciones rápidas</value>
   </data>
   <data name="SettingsHome_UsersDetailsEmail_Description.Text" xml:space="preserve">
-    <value>Pokaż adres e-mail w sekcji informacji o użytkowniku</value>
+    <value>Mostrar la dirección de correo electrónico en la sección de detalles del usuario</value>
   </data>
   <data name="SettingsHome_UsersDetailsEmail_Title.Text" xml:space="preserve">
-    <value>Adres e-mail użytkownika</value>
+    <value>Dirección de correo electrónico del usuario</value>
   </data>
   <data name="SettingsHome_UsersDetails_Description.Text" xml:space="preserve">
-    <value>Pokaż informacje o użytkowniku, takie jak obraz, nazwa oraz adres e-mail</value>
+    <value>Mostrar detalles del usuario como imagen, nombre y dirección de correo electrónico</value>
   </data>
   <data name="SettingsHome_UsersDetails_Title.Text" xml:space="preserve">
-    <value>Informacje o użytkowniku</value>
+    <value>Detalles del usuario</value>
   </data>
   <data name="SettingsPersonalization_AppStyle_Description.Text" xml:space="preserve">
-    <value>Zmień styl okien aplikacji</value>
+    <value>Cambiar el estilo de la ventana de la aplicación</value>
   </data>
   <data name="SettingsPersonalization_AppStyle_Title.Text" xml:space="preserve">
-    <value>Styl aplikacji</value>
+    <value>Estilo de la aplicación</value>
   </data>
   <data name="SettingsPersonalization_AppStyle_Windows10.Content" xml:space="preserve">
     <value>Windows 10</value>
@@ -681,103 +681,103 @@
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="SettingsPersonalization_Category_ButtonsAndStatuses.Text" xml:space="preserve">
-    <value>Przyciski i statusy</value>
+    <value>Botones y estados</value>
   </data>
   <data name="SettingsPersonalization_PenBatteryStatusInWorkspace_Description.Text" xml:space="preserve">
-    <value>Pokaż status baterii pióra w obszarze roboczym</value>
+    <value>Mostrar el estado de la batería del lápiz en el espacio de trabajo</value>
   </data>
   <data name="SettingsPersonalization_PenBatteryStatusInWorkspace_Title.Text" xml:space="preserve">
-    <value>Status baterii pióra</value>
+    <value>Estado de la batería del lápiz</value>
   </data>
   <data name="SettingsPersonalization_PenSettingsInContextMenu_Description.Text" xml:space="preserve">
-    <value>Pokaż przycisk ustawień pióra w menu kontekstowym oraz na liście szybkiego dostępu</value>
+    <value>Mostrar el botón de configuración del lápiz en el menú contextual y la lista desplegable</value>
   </data>
   <data name="SettingsPersonalization_PenSettingsInContextMenu_Title.Text" xml:space="preserve">
-    <value>Przycisk ustawień pióra</value>
+    <value>Botón de configuración del lápiz</value>
   </data>
   <data name="SettingsPersonalization_Placement_BottomCenter.Content" xml:space="preserve">
-    <value>Na dole pośrodku</value>
+    <value>Abajo al centro</value>
   </data>
   <data name="SettingsPersonalization_Placement_BottomLeft.Content" xml:space="preserve">
-    <value>Na dole po lewej</value>
+    <value>Abajo a la izquierda</value>
   </data>
   <data name="SettingsPersonalization_Placement_BottomRight.Content" xml:space="preserve">
-    <value>Na dole po prawej</value>
+    <value>Abajo a la derecha</value>
   </data>
   <data name="SettingsPersonalization_Placement_Description.Text" xml:space="preserve">
-    <value>Zmień położenie okien aplikacji na ekranie</value>
+    <value>Cambiar la posición de la ventana de la aplicación</value>
   </data>
   <data name="SettingsPersonalization_Placement_Title.Text" xml:space="preserve">
-    <value>Położenie</value>
+    <value>Posición</value>
   </data>
   <data name="SettingsPersonalization_Placement_TopCenter.Content" xml:space="preserve">
-    <value>Na górze pośrodku</value>
+    <value>Arriba al centro</value>
   </data>
   <data name="SettingsPersonalization_Placement_TopLeft.Content" xml:space="preserve">
-    <value>Na górze po lewej</value>
+    <value>Arriba a la izquierda</value>
   </data>
   <data name="SettingsPersonalization_Placement_TopRight.Content" xml:space="preserve">
-    <value>Na górze po prawej</value>
+    <value>Arriba a la derecha</value>
   </data>
   <data name="SettingsPersonalization_RoundedCornersForTiles_Description.Text" xml:space="preserve">
-    <value>Włącz zaokrąglone krawędzie dla kafelków aplikacji i szybkich akcji</value>
+    <value>Habilitar esquinas redondeadas para los mosaicos de las aplicaciones y acciones rápidas</value>
   </data>
   <data name="SettingsPersonalization_RoundedCornersForTiles_Title.Text" xml:space="preserve">
-    <value>Zaokrąglone krawędzie kafelków</value>
+    <value>Esquinas redondeadas para los mosaicos</value>
   </data>
   <data name="SettingsPersonalization_RoundedCornersForWindows_Description.Text" xml:space="preserve">
-    <value>Włącz zaokrąglone krawędzie dla okien aplikacji</value>
+    <value>Habilitar esquinas redondeadas para la ventana de la aplicacion</value>
   </data>
   <data name="SettingsPersonalization_RoundedCornersForWindows_Title.Text" xml:space="preserve">
-    <value>Zaokrąglone krawędzie okien</value>
+    <value>Esquinas redondeadas para la ventana</value>
   </data>
   <data name="SettingsPersonalization_SettingsInWorkspace_Description.Text" xml:space="preserve">
-    <value>Pokaż przycisk ustawień w obszarze roboczym</value>
+    <value>Mostrar el botón Configuración en el espacio de trabajo</value>
   </data>
   <data name="SettingsPersonalization_SettingsInWorkspace_Title.Text" xml:space="preserve">
-    <value>Przycisk ustawień</value>
+    <value>Botón de configuración</value>
   </data>
   <data name="SettingsPersonalization_StopRecordingInContextMenuAndJumpList_Description.Text" xml:space="preserve">
-    <value>Pokaż przycisk zatrzymywania nagrywania w menu kontekstowym oraz na liście szybkiego dostępu podczas nagrywania</value>
+    <value>Mostrar el botón de detener grabación en el menú contextual y la lista desplegable durante la grabación</value>
   </data>
   <data name="SettingsPersonalization_StopRecordingInContextMenuAndJumpList_Title.Text" xml:space="preserve">
-    <value>Przycisk zatrzymywania nagrywania</value>
+    <value>Botón para detener la grabación</value>
   </data>
   <data name="SettingsQuickActions_Border_Description.Text" xml:space="preserve">
-    <value>Pokaż żółtą ramkę wokół ekranu lub okna</value>
+    <value>Mostrar borde amarillo alrededor de la pantalla o ventana</value>
   </data>
   <data name="SettingsQuickActions_Border_Title.Text" xml:space="preserve">
-    <value>Obramowanie</value>
+    <value>Borde</value>
   </data>
   <data name="SettingsQuickActions_Category_Advanced.Text" xml:space="preserve">
-    <value>Zaawansowane</value>
+    <value>Avanzado</value>
   </data>
   <data name="SettingsQuickActions_Category_Recording.Text" xml:space="preserve">
-    <value>Nagrywanie</value>
+    <value>Grabación</value>
   </data>
   <data name="SettingsQuickActions_Category_ScreenSketch.Text" xml:space="preserve">
-    <value>Szkic ekranu</value>
+    <value>Recorte de pantalla</value>
   </data>
   <data name="SettingsQuickActions_Category_ShutDown.Text" xml:space="preserve">
-    <value>Zamknij</value>
+    <value>Aagado</value>
   </data>
   <data name="SettingsQuickActions_Cursor_Description.Text" xml:space="preserve">
-    <value>Nagrywaj kursor systemowy</value>
+    <value>Grabar el cursor del sistema</value>
   </data>
   <data name="SettingsQuickActions_Cursor_Title.Text" xml:space="preserve">
-    <value>Kursor</value>
+    <value>Cursor</value>
   </data>
   <data name="SettingsQuickActions_EnableStartRecordingShortcut_Description.Text" xml:space="preserve">
-    <value>Włącz skrót klawiszowy, który pozwala na rozpoczęcie nagrywania</value>
+    <value>Habilitar atajo de teclado para comenzar la grabación</value>
   </data>
   <data name="SettingsQuickActions_EnableStartRecordingShortcut_Title.Text" xml:space="preserve">
-    <value>Włącz skrót rozpoczęcia nagrywania</value>
+    <value>Atajo de teclado para comenzar una grabación</value>
   </data>
   <data name="SettingsQuickActions_EnableStopRecordingShortcut_Description.Text" xml:space="preserve">
-    <value>Włącz skrót klawiszowy, który pozwala na zatrzymanie nagrywania</value>
+    <value>Habilitar atajo de teclado para detener la grabación</value>
   </data>
   <data name="SettingsQuickActions_EnableStopRecordingShortcut_Title.Text" xml:space="preserve">
-    <value>Włącz skrót zatrzymania nagrywania</value>
+    <value>Atajo de teclado para detener la grabación</value>
   </data>
   <data name="SettingsQuickActions_RecordingFrameRate_30fps.Content" xml:space="preserve">
     <value>30 fps</value>
@@ -786,136 +786,136 @@
     <value>60 fps</value>
   </data>
   <data name="SettingsQuickActions_RecordingFrameRate_Description.Text" xml:space="preserve">
-    <value>Ustaw liczbę klatek na sekundę nagrywanego wideo</value>
+    <value>Seleccionar la velocidad de cuadros de la grabación</value>
   </data>
   <data name="SettingsQuickActions_RecordingFrameRate_Title.Text" xml:space="preserve">
-    <value>Liczba klatek</value>
+    <value>Velocidad de cuadros</value>
   </data>
   <data name="SettingsQuickActions_RecordingStartDelay_10secs.Content" xml:space="preserve">
-    <value>10s</value>
+    <value>10 segundos</value>
   </data>
   <data name="SettingsQuickActions_RecordingStartDelay_3secs.Content" xml:space="preserve">
-    <value>3s</value>
+    <value>3 segundos</value>
   </data>
   <data name="SettingsQuickActions_RecordingStartDelay_5secs.Content" xml:space="preserve">
-    <value>5s</value>
+    <value>5 segundos</value>
   </data>
   <data name="SettingsQuickActions_RecordingStartDelay_Description.Text" xml:space="preserve">
-    <value>Opóźnij rozpoczęcie nagrywania o określoną liczbę sekund</value>
+    <value>Demorar el inicio de la grabación una especifica cantidad de segundos</value>
   </data>
   <data name="SettingsQuickActions_RecordingStartDelay_NoDelay.Content" xml:space="preserve">
-    <value>Bez opóźnienia</value>
+    <value>Sin demora</value>
   </data>
   <data name="SettingsQuickActions_RecordingStartDelay_Title.Text" xml:space="preserve">
-    <value>Opóźnienie rozpoczęcia nagrywania</value>
+    <value>Iniciar con demora</value>
   </data>
   <data name="SettingsQuickActions_RecordingVideoQuality_Best.Content" xml:space="preserve">
-    <value>Najlepsza</value>
+    <value>Best</value>
   </data>
   <data name="SettingsQuickActions_RecordingVideoQuality_Description.Text" xml:space="preserve">
-    <value>Wybierz jakość wideo</value>
+    <value>Seleccionar la calidad del video de la grabación</value>
   </data>
   <data name="SettingsQuickActions_RecordingVideoQuality_High.Content" xml:space="preserve">
-    <value>Wysoka</value>
+    <value>Alta</value>
   </data>
   <data name="SettingsQuickActions_RecordingVideoQuality_Low.Content" xml:space="preserve">
-    <value>Niska</value>
+    <value>Baja</value>
   </data>
   <data name="SettingsQuickActions_RecordingVideoQuality_Medium.Content" xml:space="preserve">
-    <value>Średnia</value>
+    <value>Media</value>
   </data>
   <data name="SettingsQuickActions_RecordingVideoQuality_Title.Text" xml:space="preserve">
-    <value>Jakość wideo</value>
+    <value>Calidad de video</value>
   </data>
   <data name="SettingsQuickActions_ScreenSketchArea_AllScreens.Content" xml:space="preserve">
-    <value>Przechwyć wszystkie ekrany</value>
+    <value>Capturar todas las pantallas</value>
   </data>
   <data name="SettingsQuickActions_ScreenSketchArea_Description.Text" xml:space="preserve">
-    <value>Wybierz obszar, który ma zostać przechwycony do szkicowania</value>
+    <value>Seleccionar el área a capturar por el recorte de pantalla</value>
   </data>
   <data name="SettingsQuickActions_ScreenSketchArea_PrimaryScreen.Content" xml:space="preserve">
-    <value>Przechwyć tylko główny ekran</value>
+    <value>Capturar solo la pantalla principal</value>
   </data>
   <data name="SettingsQuickActions_ScreenSketchArea_Title.Text" xml:space="preserve">
-    <value>Obszar przechwytywania</value>
+    <value>Área de captura</value>
   </data>
   <data name="SettingsQuickActions_ShutDownConfirmation_Description.Text" xml:space="preserve">
-    <value>Pokaż potwierdzenie przed wyłączeniem urządzenia</value>
+    <value>Mostrar notificación de confirmación antes de apagar</value>
   </data>
   <data name="SettingsQuickActions_ShutDownConfirmation_Information.Text" xml:space="preserve">
-    <value>Wyłączenie nastąpi bezpośrednio po wybraniu akcji</value>
+    <value>La acción de apagado será ejecutada inmediatamente al ser invocada</value>
   </data>
   <data name="SettingsQuickActions_ShutDownConfirmation_Title.Text" xml:space="preserve">
-    <value>Potwierdź wyłączenie</value>
+    <value>Confirmar apagado</value>
   </data>
   <data name="SettingsQuickActions_StartRecordingShortcut_Description.Text" xml:space="preserve">
-    <value>Dostosuj skrót klawiszowy</value>
+    <value>Personalizar atajos de teclado</value>
   </data>
   <data name="SettingsQuickActions_StartRecordingShortcut_Title.Text" xml:space="preserve">
-    <value>Skrót rozpoczęcia nagrywania</value>
+    <value>Atajo de teclado para iniciar grabación</value>
   </data>
   <data name="SettingsQuickActions_StopRecordingShortcut_Description.Text" xml:space="preserve">
-    <value>Dostosuj skrót klawiszowy</value>
+    <value>Personalizar atajo de teclado</value>
   </data>
   <data name="SettingsQuickActions_StopRecordingShortcut_Title.Text" xml:space="preserve">
-    <value>Skrót zatrzymania nagrywania</value>
+    <value>Atajo de teclado para detener grabación</value>
   </data>
   <data name="SettingsQuickActions_UnpinAll_Description.Text" xml:space="preserve">
-    <value>Odepnij wszystkie szybkie akcje ze strony głównej</value>
+    <value>Desanclar todas las acciones rápidas del Inicio</value>
   </data>
   <data name="SettingsQuickActions_UnpinAll_Title.Text" xml:space="preserve">
-    <value>Odepnij wszystkie</value>
+    <value>Desanclar todo</value>
   </data>
   <data name="SettingsQuickActions_UnpinAll_Unpin.Content" xml:space="preserve">
-    <value>Odepnij</value>
+    <value>Desanclar</value>
   </data>
   <data name="SettingsQuickActions_UnpinAll_Unpinned" xml:space="preserve">
-    <value>Odpięto</value>
+    <value>Desanclado</value>
   </data>
   <data name="SettingsRecentFiles_RemoveAll_Description.Text" xml:space="preserve">
-    <value>Usuń wszystkie ostatnie pliki z listy</value>
+    <value>Quitar todos los archivos recientes de la lista</value>
   </data>
   <data name="SettingsRecentFiles_RemoveAll_RemoveAll.Content" xml:space="preserve">
-    <value>Usuń wszystkie</value>
+    <value>Quitar todo</value>
   </data>
   <data name="SettingsRecentFiles_RemoveAll_Removed" xml:space="preserve">
-    <value>Usunięto</value>
+    <value>Quitado</value>
   </data>
   <data name="SettingsRecentFiles_RemoveAll_Title.Text" xml:space="preserve">
-    <value>Usuń wszystkie</value>
+    <value>Quitar todo</value>
   </data>
   <data name="Settings_Menu_About" xml:space="preserve">
-    <value>O aplikacji</value>
+    <value>Información</value>
   </data>
   <data name="Settings_Menu_Apps" xml:space="preserve">
-    <value>Aplikacje</value>
+    <value>Aplicaciones</value>
   </data>
   <data name="Settings_Menu_General" xml:space="preserve">
-    <value>Podstawowe</value>
+    <value>General</value>
   </data>
   <data name="Settings_Menu_Home" xml:space="preserve">
-    <value>Strona główna</value>
+    <value>Inicio</value>
   </data>
   <data name="Settings_Menu_Personalization" xml:space="preserve">
-    <value>Personalizacja</value>
+    <value>Personalización</value>
   </data>
   <data name="Settings_Menu_QuickActions" xml:space="preserve">
-    <value>Szybkie akcje</value>
+    <value>Acciones rápidas</value>
   </data>
   <data name="Settings_Menu_RecentFiles" xml:space="preserve">
-    <value>Ostatnie pliki</value>
+    <value>Archivos recientes</value>
   </data>
   <data name="Settings_WindowTitle.Text" xml:space="preserve">
     <value>Ink Workspace</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="Suggested_Next.Text" xml:space="preserve">
-    <value>Dalej</value>
+    <value>Siguiente</value>
   </data>
   <data name="Suggested_Title.Text" xml:space="preserve">
-    <value>Polecane</value>
+    <value>Sugerido</value>
   </data>
   <data name="TrayIcon_Starting" xml:space="preserve">
-    <value>Uruchamianie...</value>
+    <value>Iniciando...</value>
   </data>
 </root>

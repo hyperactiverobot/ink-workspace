@@ -133,6 +133,9 @@
   <data name="Apps_NoResultsFound" xml:space="preserve">
     <value>'{0}' の検索結果なし</value>
   </data>
+  <data name="Apps_RunAsAdmin.Text" xml:space="preserve">
+    <value>管理者として実行</value>
+  </data>
   <data name="Apps_Title.Text" xml:space="preserve">
     <value>アプリ</value>
   </data>
@@ -256,19 +259,19 @@
     <value>JP</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
-  <data name="NavigationBar_Apps.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="NavigationBar_Apps" xml:space="preserve">
     <value>アプリ</value>
   </data>
-  <data name="NavigationBar_Home.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="NavigationBar_Home" xml:space="preserve">
     <value>ホーム</value>
   </data>
-  <data name="NavigationBar_QuickActions.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="NavigationBar_QuickActions" xml:space="preserve">
     <value>クイックアクション</value>
   </data>
-  <data name="NavigationBar_RecentFiles.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="NavigationBar_RecentFiles" xml:space="preserve">
     <value>最近使用したファイル</value>
   </data>
-  <data name="NavigationBar_Settings.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="NavigationBar_Settings" xml:space="preserve">
     <value>設定</value>
   </data>
   <data name="QuickActions_Action_Cast" xml:space="preserve">
@@ -295,6 +298,9 @@
   <data name="QuickActions_Action_Narrator" xml:space="preserve">
     <value>ナレーター</value>
   </data>
+  <data name="QuickActions_Action_NewQuickNote" xml:space="preserve">
+    <value>新しいクイック ノート</value>
+  </data>
   <data name="QuickActions_Action_Project" xml:space="preserve">
     <value>プロジェクト</value>
   </data>
@@ -303,6 +309,21 @@
   </data>
   <data name="QuickActions_Action_RecycleBin" xml:space="preserve">
     <value>ゴミ箱</value>
+  </data>
+  <data name="QuickActions_Action_Rotate" xml:space="preserve">
+    <value>画面回転</value>
+  </data>
+  <data name="QuickActions_Action_Rotate_Rotate0" xml:space="preserve">
+    <value>0度回転</value>
+  </data>
+  <data name="QuickActions_Action_Rotate_Rotate180" xml:space="preserve">
+    <value>180度回転</value>
+  </data>
+  <data name="QuickActions_Action_Rotate_Rotate270" xml:space="preserve">
+    <value>270度回転</value>
+  </data>
+  <data name="QuickActions_Action_Rotate_Rotate90" xml:space="preserve">
+    <value>90度回転</value>
   </data>
   <data name="QuickActions_Action_Run" xml:space="preserve">
     <value>ファイル名を指定して実行</value>
@@ -321,6 +342,9 @@
   </data>
   <data name="QuickActions_Action_ShutDown_Restart" xml:space="preserve">
     <value>再起動</value>
+  </data>
+  <data name="QuickActions_Action_ShutDown_Sleep" xml:space="preserve">
+    <value>スリープ</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot" xml:space="preserve">
     <value>スクリーンショット</value>
@@ -352,13 +376,13 @@
   <data name="QuickActions_Unpin.Text" xml:space="preserve">
     <value>ピン留めを外す</value>
   </data>
-  <data name="RateAndReview_Dismiss.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="RateAndReview_Dismiss" xml:space="preserve">
     <value>閉じる</value>
   </data>
   <data name="RateAndReview_Title.Text" xml:space="preserve">
     <value>このアプリを評価する</value>
   </data>
-  <data name="RateAndReview_WriteReview.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="RateAndReview_WriteReview" xml:space="preserve">
     <value>レビューを書く</value>
   </data>
   <data name="RecentFiles_More.Text" xml:space="preserve">
@@ -650,6 +674,10 @@
   </data>
   <data name="SettingsPersonalization_AppStyle_Windows11.Content" xml:space="preserve">
     <value>Windows 11</value>
+    <comment>DO NOT TRANSLATE</comment>
+  </data>
+  <data name="SettingsPersonalization_AppStyle_Windows11Mica.Content" xml:space="preserve">
+    <value>Windows 11 Mica</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="SettingsPersonalization_Category_ButtonsAndStatuses.Text" xml:space="preserve">

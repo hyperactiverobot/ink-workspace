@@ -133,6 +133,9 @@
   <data name="Apps_NoResultsFound" xml:space="preserve">
     <value>Nebyly nalezeny žádné výsledky pro výraz '{0}'</value>
   </data>
+  <data name="Apps_RunAsAdmin.Text" xml:space="preserve">
+    <value>Spustit jako správce</value>
+  </data>
   <data name="Apps_Title.Text" xml:space="preserve">
     <value>Aplikace</value>
   </data>
@@ -256,19 +259,19 @@
     <value>CZ</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
-  <data name="NavigationBar_Apps.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="NavigationBar_Apps" xml:space="preserve">
     <value>Aplikace</value>
   </data>
-  <data name="NavigationBar_Home.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="NavigationBar_Home" xml:space="preserve">
     <value>Domů</value>
   </data>
-  <data name="NavigationBar_QuickActions.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="NavigationBar_QuickActions" xml:space="preserve">
     <value>Centrum akcí</value>
   </data>
-  <data name="NavigationBar_RecentFiles.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="NavigationBar_RecentFiles" xml:space="preserve">
     <value>Nedávné položky</value>
   </data>
-  <data name="NavigationBar_Settings.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="NavigationBar_Settings" xml:space="preserve">
     <value>Nastavení</value>
   </data>
   <data name="QuickActions_Action_Cast" xml:space="preserve">
@@ -295,6 +298,9 @@
   <data name="QuickActions_Action_Narrator" xml:space="preserve">
     <value>Předčítání</value>
   </data>
+  <data name="QuickActions_Action_NewQuickNote" xml:space="preserve">
+    <value>Nová rychlá poznámka</value>
+  </data>
   <data name="QuickActions_Action_Project" xml:space="preserve">
     <value>Promítání</value>
   </data>
@@ -303,6 +309,21 @@
   </data>
   <data name="QuickActions_Action_RecycleBin" xml:space="preserve">
     <value>Koš</value>
+  </data>
+  <data name="QuickActions_Action_Rotate" xml:space="preserve">
+    <value>Rotovat obrazovku</value>
+  </data>
+  <data name="QuickActions_Action_Rotate_Rotate0" xml:space="preserve">
+    <value>Vyresetovat rotaci</value>
+  </data>
+  <data name="QuickActions_Action_Rotate_Rotate180" xml:space="preserve">
+    <value>Rotovat o 180°</value>
+  </data>
+  <data name="QuickActions_Action_Rotate_Rotate270" xml:space="preserve">
+    <value>Rotovat o 270°</value>
+  </data>
+  <data name="QuickActions_Action_Rotate_Rotate90" xml:space="preserve">
+    <value>Rotovat o 90°</value>
   </data>
   <data name="QuickActions_Action_Run" xml:space="preserve">
     <value>Spustit</value>
@@ -321,6 +342,9 @@
   </data>
   <data name="QuickActions_Action_ShutDown_Restart" xml:space="preserve">
     <value>Restartovat</value>
+  </data>
+  <data name="QuickActions_Action_ShutDown_Sleep" xml:space="preserve">
+    <value>Režim spánku</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot" xml:space="preserve">
     <value>Pořídit snímek obrazovky</value>
@@ -347,18 +371,18 @@
     <value>Více</value>
   </data>
   <data name="QuickActions_Title.Text" xml:space="preserve">
-    <value>Centrum akcí</value>
+    <value>Rychlé akce</value>
   </data>
   <data name="QuickActions_Unpin.Text" xml:space="preserve">
     <value>Odepnout</value>
   </data>
-  <data name="RateAndReview_Dismiss.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="RateAndReview_Dismiss" xml:space="preserve">
     <value>Odmítnout</value>
   </data>
   <data name="RateAndReview_Title.Text" xml:space="preserve">
     <value>Ohodnotit tuto aplikaci</value>
   </data>
-  <data name="RateAndReview_WriteReview.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="RateAndReview_WriteReview" xml:space="preserve">
     <value>Napsat recenzi</value>
   </data>
   <data name="RecentFiles_More.Text" xml:space="preserve">
@@ -588,10 +612,10 @@
     <value>V případě, že nejsou žádna data dostupná se položky na domácí obrazovce mohou automaticky schovat.</value>
   </data>
   <data name="SettingsHome_HomeManagement_QuickActions_Description" xml:space="preserve">
-    <value>Zobrazovat dlaždice centra akcí, které jste připnuli</value>
+    <value>Dlaždice rychlých akcí, které jste připnuli</value>
   </data>
   <data name="SettingsHome_HomeManagement_QuickActions_Title" xml:space="preserve">
-    <value>Centrum akcí</value>
+    <value>Rychlé akce</value>
   </data>
   <data name="SettingsHome_HomeManagement_RecentFiles_Description" xml:space="preserve">
     <value>Zobrazovat naposledy otevřené nebo upravené položky</value>
@@ -650,6 +674,10 @@
   </data>
   <data name="SettingsPersonalization_AppStyle_Windows11.Content" xml:space="preserve">
     <value>Windows 11</value>
+    <comment>DO NOT TRANSLATE</comment>
+  </data>
+  <data name="SettingsPersonalization_AppStyle_Windows11Mica.Content" xml:space="preserve">
+    <value>Windows 11 Mica</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="SettingsPersonalization_Category_ButtonsAndStatuses.Text" xml:space="preserve">
@@ -872,7 +900,7 @@
     <value>Přizpůsobení</value>
   </data>
   <data name="Settings_Menu_QuickActions" xml:space="preserve">
-    <value>Centrum akcí</value>
+    <value>Rychlé akce</value>
   </data>
   <data name="Settings_Menu_RecentFiles" xml:space="preserve">
     <value>Nedávné položky</value>

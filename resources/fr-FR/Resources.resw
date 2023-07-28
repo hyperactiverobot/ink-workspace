@@ -133,6 +133,9 @@
   <data name="Apps_NoResultsFound" xml:space="preserve">
     <value>Aucun résultat trouvé pour '{0}'.</value>
   </data>
+  <data name="Apps_RunAsAdmin.Text" xml:space="preserve">
+    <value>Exécuter en tant qu’administrateur</value>
+  </data>
   <data name="Apps_Title.Text" xml:space="preserve">
     <value>Applications</value>
   </data>
@@ -256,19 +259,19 @@
     <value>FR</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
-  <data name="NavigationBar_Apps.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="NavigationBar_Apps" xml:space="preserve">
     <value>Apps</value>
   </data>
-  <data name="NavigationBar_Home.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="NavigationBar_Home" xml:space="preserve">
     <value>Accueil</value>
   </data>
-  <data name="NavigationBar_QuickActions.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="NavigationBar_QuickActions" xml:space="preserve">
     <value>Actions rapides</value>
   </data>
-  <data name="NavigationBar_RecentFiles.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="NavigationBar_RecentFiles" xml:space="preserve">
     <value>Fichiers récents</value>
   </data>
-  <data name="NavigationBar_Settings.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="NavigationBar_Settings" xml:space="preserve">
     <value>Paramètres</value>
   </data>
   <data name="QuickActions_Action_Cast" xml:space="preserve">
@@ -295,6 +298,9 @@
   <data name="QuickActions_Action_Narrator" xml:space="preserve">
     <value>Narrateur</value>
   </data>
+  <data name="QuickActions_Action_NewQuickNote" xml:space="preserve">
+    <value>Nouvelle note rapide</value>
+  </data>
   <data name="QuickActions_Action_Project" xml:space="preserve">
     <value>Projeter</value>
   </data>
@@ -303,6 +309,21 @@
   </data>
   <data name="QuickActions_Action_RecycleBin" xml:space="preserve">
     <value>Corbeille</value>
+  </data>
+  <data name="QuickActions_Action_Rotate" xml:space="preserve">
+    <value>Tourner l'écran</value>
+  </data>
+  <data name="QuickActions_Action_Rotate_Rotate0" xml:space="preserve">
+    <value>Tourner de 0°</value>
+  </data>
+  <data name="QuickActions_Action_Rotate_Rotate180" xml:space="preserve">
+    <value>Tourner de 180°</value>
+  </data>
+  <data name="QuickActions_Action_Rotate_Rotate270" xml:space="preserve">
+    <value>Tourner de 270°</value>
+  </data>
+  <data name="QuickActions_Action_Rotate_Rotate90" xml:space="preserve">
+    <value>Tourner de 90°</value>
   </data>
   <data name="QuickActions_Action_Run" xml:space="preserve">
     <value>Exécuter</value>
@@ -321,6 +342,9 @@
   </data>
   <data name="QuickActions_Action_ShutDown_Restart" xml:space="preserve">
     <value>Redémarrer</value>
+  </data>
+  <data name="QuickActions_Action_ShutDown_Sleep" xml:space="preserve">
+    <value>Mettre en veille</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot" xml:space="preserve">
     <value>Faire une capture d'écran</value>
@@ -352,13 +376,13 @@
   <data name="QuickActions_Unpin.Text" xml:space="preserve">
     <value>Désépingler</value>
   </data>
-  <data name="RateAndReview_Dismiss.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="RateAndReview_Dismiss" xml:space="preserve">
     <value>Rejeter</value>
   </data>
   <data name="RateAndReview_Title.Text" xml:space="preserve">
     <value>Noter cette application</value>
   </data>
-  <data name="RateAndReview_WriteReview.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="RateAndReview_WriteReview" xml:space="preserve">
     <value>Ecrire un commentaire</value>
   </data>
   <data name="RecentFiles_More.Text" xml:space="preserve">
@@ -650,6 +674,10 @@
   </data>
   <data name="SettingsPersonalization_AppStyle_Windows11.Content" xml:space="preserve">
     <value>Windows 11</value>
+    <comment>DO NOT TRANSLATE</comment>
+  </data>
+  <data name="SettingsPersonalization_AppStyle_Windows11Mica.Content" xml:space="preserve">
+    <value>Windows 11 Mica</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="SettingsPersonalization_Category_ButtonsAndStatuses.Text" xml:space="preserve">

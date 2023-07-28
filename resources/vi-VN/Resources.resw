@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -133,6 +133,9 @@
   <data name="Apps_NoResultsFound" xml:space="preserve">
     <value>Không có kết quả cho '{0}'</value>
   </data>
+  <data name="Apps_RunAsAdmin.Text" xml:space="preserve">
+    <value>Chạy với tư cách người</value>
+  </data>
   <data name="Apps_Title.Text" xml:space="preserve">
     <value>Ứng dụng</value>
   </data>
@@ -256,23 +259,23 @@
     <value>VN</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
-  <data name="NavigationBar_Apps.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="NavigationBar_Apps" xml:space="preserve">
     <value>Ứng dụng</value>
   </data>
-  <data name="NavigationBar_Home.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="NavigationBar_Home" xml:space="preserve">
     <value>Trang chủ</value>
   </data>
-  <data name="NavigationBar_QuickActions.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="NavigationBar_QuickActions" xml:space="preserve">
     <value>Hành động nhanh</value>
   </data>
-  <data name="NavigationBar_RecentFiles.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="NavigationBar_RecentFiles" xml:space="preserve">
     <value>Tệp gần đây</value>
   </data>
-  <data name="NavigationBar_Settings.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="NavigationBar_Settings" xml:space="preserve">
     <value>Cài đặt</value>
   </data>
   <data name="QuickActions_Action_Cast" xml:space="preserve">
-    <value>Chiếu</value>
+    <value>Truyền màn hình</value>
   </data>
   <data name="QuickActions_Action_Clipboard" xml:space="preserve">
     <value>Bảng nhớ tạm</value>
@@ -295,6 +298,9 @@
   <data name="QuickActions_Action_Narrator" xml:space="preserve">
     <value>Trình tường thuật</value>
   </data>
+  <data name="QuickActions_Action_NewQuickNote" xml:space="preserve">
+    <value>Ghi chú Nhanh Mới</value>
+  </data>
   <data name="QuickActions_Action_Project" xml:space="preserve">
     <value>Trình chiếu</value>
   </data>
@@ -303,6 +309,21 @@
   </data>
   <data name="QuickActions_Action_RecycleBin" xml:space="preserve">
     <value>Thùng Rác</value>
+  </data>
+  <data name="QuickActions_Action_Rotate" xml:space="preserve">
+    <value>Xoay màn hình</value>
+  </data>
+  <data name="QuickActions_Action_Rotate_Rotate0" xml:space="preserve">
+    <value>Không xoay</value>
+  </data>
+  <data name="QuickActions_Action_Rotate_Rotate180" xml:space="preserve">
+    <value>Xoay 180 độ</value>
+  </data>
+  <data name="QuickActions_Action_Rotate_Rotate270" xml:space="preserve">
+    <value>Xoay 270 độ</value>
+  </data>
+  <data name="QuickActions_Action_Rotate_Rotate90" xml:space="preserve">
+    <value>Xoay 90 độ</value>
   </data>
   <data name="QuickActions_Action_Run" xml:space="preserve">
     <value>Chạy</value>
@@ -321,6 +342,9 @@
   </data>
   <data name="QuickActions_Action_ShutDown_Restart" xml:space="preserve">
     <value>Khởi động lại</value>
+  </data>
+  <data name="QuickActions_Action_ShutDown_Sleep" xml:space="preserve">
+    <value>Chế độ ngủ</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot" xml:space="preserve">
     <value>Chụp ảnh màn hình</value>
@@ -352,13 +376,13 @@
   <data name="QuickActions_Unpin.Text" xml:space="preserve">
     <value>Hủy ghim</value>
   </data>
-  <data name="RateAndReview_Dismiss.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="RateAndReview_Dismiss" xml:space="preserve">
     <value>Bỏ</value>
   </data>
   <data name="RateAndReview_Title.Text" xml:space="preserve">
     <value>Đánh giá ứng dụng</value>
   </data>
-  <data name="RateAndReview_WriteReview.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="RateAndReview_WriteReview" xml:space="preserve">
     <value>Viết rì viu</value>
   </data>
   <data name="RecentFiles_More.Text" xml:space="preserve">
@@ -444,7 +468,7 @@
     <value>Nâng cao</value>
   </data>
   <data name="SettingsApps_ClassicApps_Description.Text" xml:space="preserve">
-    <value>Hiện ứng dụng truyền thống trong danh sách ứng dụng</value>
+    <value>Hiện ứng dụng truyền thống (không từ store) trong danh sách ứng dụng</value>
   </data>
   <data name="SettingsApps_ClassicApps_Information.Text" xml:space="preserve">
     <value>Mọi ứng dụng truyền thống sẽ bị hủy ghim khỏi Trang chủ nếu bạn tắt cài đặt này</value>
@@ -471,13 +495,13 @@
     <value>Hộp tìm kiếm</value>
   </data>
   <data name="SettingsApps_UnpinAll_Description.Text" xml:space="preserve">
-    <value>Hủy ghim tất cả ứng dụng khỏi Trang chủ</value>
+    <value>Bỏ ghim tất cả ứng dụng khỏi Trang chủ</value>
   </data>
   <data name="SettingsApps_UnpinAll_Title.Text" xml:space="preserve">
-    <value>Hủy ghim hết</value>
+    <value>Bỏ ghim toàn bộ</value>
   </data>
   <data name="SettingsApps_UnpinAll_Unpin.Content" xml:space="preserve">
-    <value>Hủy ghim</value>
+    <value>Bỏ ghim</value>
   </data>
   <data name="SettingsApps_UnpinAll_Unpinned" xml:space="preserve">
     <value>Đã hủy ghim</value>
@@ -501,10 +525,10 @@
     <value>Cài đặt liên quan</value>
   </data>
   <data name="SettingsGeneral_EnableActivationShortcut_Description.Text" xml:space="preserve">
-    <value>Bật phím tắt để hiện không gian làm việc</value>
+    <value>Phím tắt để hiện không gian làm việc</value>
   </data>
   <data name="SettingsGeneral_EnableActivationShortcut_Title.Text" xml:space="preserve">
-    <value>Bật phím tắt kích hoạt</value>
+    <value>Phím tắt kích hoạt ứng dụng</value>
   </data>
   <data name="SettingsGeneral_FontSize_Bigger.Content" xml:space="preserve">
     <value>To hơn</value>
@@ -652,6 +676,10 @@
     <value>Windows 11</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
+  <data name="SettingsPersonalization_AppStyle_Windows11Mica.Content" xml:space="preserve">
+    <value>Windows 11 Mica</value>
+    <comment>DO NOT TRANSLATE</comment>
+  </data>
   <data name="SettingsPersonalization_Category_ButtonsAndStatuses.Text" xml:space="preserve">
     <value>Nút và trạng thái</value>
   </data>
@@ -740,16 +768,16 @@
     <value>Con trỏ</value>
   </data>
   <data name="SettingsQuickActions_EnableStartRecordingShortcut_Description.Text" xml:space="preserve">
-    <value>Bật phím tắt để khởi động quay</value>
+    <value>Bật phím tắt để khởi động quay màn hình</value>
   </data>
   <data name="SettingsQuickActions_EnableStartRecordingShortcut_Title.Text" xml:space="preserve">
-    <value>Bật phím tắt Khởi động quay</value>
+    <value>Bật phím tắt Khởi động Quay màn hình</value>
   </data>
   <data name="SettingsQuickActions_EnableStopRecordingShortcut_Description.Text" xml:space="preserve">
-    <value>Bật phím tắt để dừng quay</value>
+    <value>Bật phím tắt để dừng quay màn hình</value>
   </data>
   <data name="SettingsQuickActions_EnableStopRecordingShortcut_Title.Text" xml:space="preserve">
-    <value>Bật phím tắt Dừng quay</value>
+    <value>Bật phím tắt Dừng Quay màn hình</value>
   </data>
   <data name="SettingsQuickActions_RecordingFrameRate_30fps.Content" xml:space="preserve">
     <value>30 fps</value>
@@ -779,7 +807,7 @@
     <value>Không hoãn</value>
   </data>
   <data name="SettingsQuickActions_RecordingStartDelay_Title.Text" xml:space="preserve">
-    <value>Bắt đầu hoãn</value>
+    <value>Hẹn giờ</value>
   </data>
   <data name="SettingsQuickActions_RecordingVideoQuality_Best.Content" xml:space="preserve">
     <value>Tốt nhất</value>
@@ -809,7 +837,7 @@
     <value>Chỉ chụp màn hình chính</value>
   </data>
   <data name="SettingsQuickActions_ScreenSketchArea_Title.Text" xml:space="preserve">
-    <value>Chụp vùng</value>
+    <value>Vùng chụp</value>
   </data>
   <data name="SettingsQuickActions_ShutDownConfirmation_Description.Text" xml:space="preserve">
     <value>Hiện xác nhận trước khi tắt máy</value>
@@ -857,7 +885,7 @@
     <value>Gỡ tất cả</value>
   </data>
   <data name="Settings_Menu_About" xml:space="preserve">
-    <value>Về</value>
+    <value>Thông tin ứng dụng</value>
   </data>
   <data name="Settings_Menu_Apps" xml:space="preserve">
     <value>Ứng dụng</value>
